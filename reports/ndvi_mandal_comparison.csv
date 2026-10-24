@@ -1,0 +1,4 @@
+Mandal,Boundary_Pixels,Valid_Pixels,Valid_Coverage_Percent,Valid_Area_km2,Mean_NDVI,Median_NDVI,Std_Dev_NDVI,Minimum_NDVI,Maximum_NDVI
+Anantapur Urban,557412,515076,92.4,51.508,0.2252,0.2122,0.1344,-0.1584,0.6831
+Anantapur Rural,2439971,2255515,92.44,225.552,0.2779,0.2631,0.1173,-0.1834,0.6882
+Bukkaraya Samudram,2438263,2288299,93.85,228.83,0.2913,0.2737,0.1288,-0.2507,0.6997

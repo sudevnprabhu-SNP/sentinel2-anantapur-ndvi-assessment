@@ -1,0 +1,16 @@
+Mandal,NDVI_Class,NDVI_Range,Pixel_Count,Area_km2,Percentage_of_Mandal_Valid_Area
+Anantapur Urban,Class 1,Below 0.00,16915,1.692,3.28
+Anantapur Urban,Class 2,0.00 to <0.15,142248,14.225,27.62
+Anantapur Urban,Class 3,0.15 to <0.30,218468,21.847,42.41
+Anantapur Urban,Class 4,0.30 to <0.45,102118,10.212,19.83
+Anantapur Urban,Class 5,0.45 and above,35327,3.533,6.86
+Anantapur Rural,Class 1,Below 0.00,18683,1.868,0.83
+Anantapur Rural,Class 2,0.00 to <0.15,236587,23.659,10.49
+Anantapur Rural,Class 3,0.15 to <0.30,1151428,115.143,51.05
+Anantapur Rural,Class 4,0.30 to <0.45,638289,63.829,28.3
+Anantapur Rural,Class 5,0.45 and above,210528,21.053,9.33
+Bukkaraya Samudram,Class 1,Below 0.00,23303,2.33,1.02
+Bukkaraya Samudram,Class 2,0.00 to <0.15,269120,26.912,11.76
+Bukkaraya Samudram,Class 3,0.15 to <0.30,1037715,103.772,45.35
+Bukkaraya Samudram,Class 4,0.30 to <0.45,651231,65.123,28.46
+Bukkaraya Samudram,Class 5,0.45 and above,306930,30.693,13.41

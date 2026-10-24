@@ -1,0 +1,17 @@
+PROJECT: Sentinel-2 NDVI Assessment of Three Mandals in Anantapur
+VERSION: 1.0 draft
+SCENE DATE: 2026-10-09
+SENSOR: Sentinel-2B MSI
+PRODUCT LEVEL: Level-2A surface reflectance
+TILE: T43PGS
+ANALYSIS CRS: EPSG:32643 (WGS 84 / UTM zone 43N)
+PRIMARY RESOLUTION: 10 m (B04 red, B08 near-infrared)
+STUDY AREAS: Anantapur Urban; Anantapur Rural; Bukkaraya Samudram
+INDEX: NDVI = (B08 - B04) / (B08 + B04)
+MASKING: Sentinel-2 Scene Classification Layer (SCL)-based cloud/shadow masking workflow
+CLASS RANGES: <0.00; 0.00–<0.15; 0.15–<0.30; 0.30–<0.45; >=0.45
+MEAN NDVI (valid pixels): 0.2786
+MEDIAN NDVI: 0.2634
+VALID-DATA COVERAGE WITHIN STUDY AREA: 93.07%
+VALID NDVI AREA: 505.889 km²
+IMPORTANT: Lightweight ZIP excludes original SAFE imagery and several intermediate NDVI rasters; full pipeline rerun requires restoring/regenerating those inputs.

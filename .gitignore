@@ -1,0 +1,41 @@
+
+# Python environment and cache
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local secrets and environment settings
+.env
+.env.*
+!.env.example
+
+# Original Sentinel-2 data (keep locally, do not commit)
+data/raw/**
+!data/raw/.gitkeep
+
+# Large intermediate and generated raster data
+*.aux.xml
+*.ovr
+*.vrt
+*.img
+*.grd
+
+# Exclude large GeoTIFFs by default; explicitly add only
+# essential rasters that are safely below GitHub's file limit
+*.tif
+*.tiff
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Temporary archives and backups
+*.zip
+*.bak
+*.tmp
